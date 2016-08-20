@@ -1,0 +1,19 @@
+// holamundo2.cpp : Defines the entry point for the console application.
+// name: maydee judi callisaya surco
+// fecha: 20-08-16
+// librerias
+#include "stdafx.h"
+#include <iostream>
+#include "conio.h"
+
+
+using namespace std;
+
+//cuerpo principal1
+int main()
+{
+    cout<<"hola mundo /n";
+	cout<<"soy maydee judi";
+	getch();
+	return 0;
+}
